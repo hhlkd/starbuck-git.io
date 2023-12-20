@@ -2,7 +2,7 @@ const products = [
     {
         id : 1,
         name : "coffee ice latte",
-        img : "/image/Iced Chai Latte.jpg",
+        img : "./image/Iced Chai Latte.jpg",
         price : 2.99,
         category : "coffee",
         description : "Coffee ice latte"
@@ -10,7 +10,7 @@ const products = [
     {
         id : 2,
         name : "chocolate frappe",
-        img : "/image/Double Chocolate Chip Frappuccino.jpg",
+        img : "./image/Double Chocolate Chip Frappuccino.jpg",
         price : 1.99,
         category : "frappe",
         description : "Chocolate ice cream"
@@ -18,7 +18,7 @@ const products = [
     {
         id : 3,
         name : "Mocha Frappes",
-        img : "/image/Making Mocha Frappes at Home_ My quest for the best - Cold Brew Queen.jpg",
+        img : "./image/Making Mocha Frappes at Home_ My quest for the best - Cold Brew Queen.jpg",
         price : 1.99,
         category : "frappe",
         description : "Making Mocha Frappes at Home"
@@ -26,7 +26,7 @@ const products = [
     {
         id : 4,
         name : "Fudgey",
-        img : "/image/The Latest Fudgey Starbucks Frapp Puts All Others To Shame.jpg",
+        img : "./image/The Latest Fudgey Starbucks Frapp Puts All Others To Shame.jpg",
         price : 1.99,
         category : "frappe",
         description : "The Latest Fudgey Starbucks"
@@ -35,7 +35,7 @@ const products = [
     {
         id : 5,
         name : "Hambergeur",
-        img : "/image/bread (1).jpg",
+        img : "./image/bread (1).jpg",
         price : 2.99,
         category : "bread",
         description : "Hambergeur cheese"
@@ -43,7 +43,7 @@ const products = [
     {
         id : 6,
         name : "fried chicken",
-        img : "/image/food (1).jpg",
+        img : "./image/food (1).jpg",
         price : 2.99,
         category : "food",
         description : " fried chicken with tomatoes"
@@ -51,7 +51,7 @@ const products = [
     {
         id : 7,
         name : "fried rice",
-        img : "/image/milk (1).jpg",
+        img : "./image/milk (1).jpg",
         price : 2.99,
         category : "milk",
         description : " strawberry milk "
@@ -59,7 +59,7 @@ const products = [
     {
         id : 8,
         name : "cold Coffee",
-        img : "/image/coffe (1).jpg",
+        img : "./image/coffe (1).jpg",
         price : 2.99,
         category : "coffee",
         description : " cold Coffee "
@@ -67,7 +67,7 @@ const products = [
     {
         id : 9,
         name : "Coffee",
-        img : "/image/coffe (2).jpg",
+        img : "./image/coffe (2).jpg",
         price : 2.99,
         category : "coffee",
         description : " Coffee "
@@ -75,7 +75,7 @@ const products = [
     {
         id : 10,
         name : "Coffee",
-        img : "/image/coffe (3).jpg",
+        img : "./image/coffe (3).jpg",
         price : 2.99,
         category : "coffee",
         description : " Coffee "
@@ -83,7 +83,7 @@ const products = [
     {
         id : 11,
         name : "Hambergeur ",
-        img : "/image/food (4).jpg",
+        img : "./image/food (4).jpg",
         price : 2.99,
         category : "Hambergeur ",
         description : " food "
@@ -91,7 +91,7 @@ const products = [
     {
         id : 12,
         name : "coffee frappe",
-        img : "/image/frappe (3).jpg",
+        img : "./image/frappe (3).jpg",
         price : 2.99,
         category : "frappe",
         description : "coffee frappe"
@@ -99,7 +99,7 @@ const products = [
     {
         id : 13,
         name : "bread",
-        img : "/image/bread (7).jpg",
+        img : "./image/bread (7).jpg",
         price : 2.99,
         category : "bread",
         description : " bread "
@@ -107,7 +107,7 @@ const products = [
     {
         id : 14,
         name : "egg bread",
-        img : "/image/bread (8).jpg",
+        img : "./image/bread (8).jpg",
         price : 2.99,
         category : "bread",
         description : " bread "
@@ -116,7 +116,7 @@ const products = [
     {
         id : 15,
         name : "bread",
-        img : "/image/bread (6).jpg",
+        img : "./image/bread (6).jpg",
         price : 2.99,
         category : "bread",
         description : " bread "
@@ -124,7 +124,7 @@ const products = [
     {
         id : 16,
         name : "bread",
-        img : "/image/bread (5).jpg",
+        img : "./image/bread (5).jpg",
         price : 2.99,
         category : "bread",
         description : " bread "
@@ -132,7 +132,7 @@ const products = [
     {
         id : 17,
         name : "bread",
-        img : "/image/bread (4).jpg",
+        img : "./image/bread (4).jpg",
         price : 2.99,
         category : "bread",
         description : " bread "
@@ -140,7 +140,7 @@ const products = [
     ,{
         id : 18,
         name : "Donut ",
-        img : "/image/bread (3).jpg",
+        img : "./image/bread (3).jpg",
         price : 2.99,
         category : "bread",
         description : " bread "
@@ -148,7 +148,7 @@ const products = [
     ,{
         id : 19,
         name : "Donut ice",
-        img : "/image/bread (2).jpg",
+        img : "./image/bread (2).jpg",
         price : 2.99,
         category : "bread",
         description : " bread "
